@@ -25,7 +25,7 @@ This project analyzes FNP sales data using Microsoft Excel to uncover meaningful
 
 ## Dashboard Preview 
 
-![Dashboard](Output-screenshots/main-Dashboard.png)
+![Dashboard](Output-screenshots/Main-Dashboard.png)
 
 ---
 
@@ -41,14 +41,17 @@ This project analyzes FNP sales data using Microsoft Excel to uncover meaningful
 
 ### Occasion-wise Revenue (Bar Chart)
 This chart shows how revenue varies across different occasions. It helps identify which events generate the highest sales. From the dashboard, occasions like Anniversary and Raksha Bandhan stand out as key revenue drivers, indicating strong seasonal demand.
+
 ![Occasion-wise-Revenue](Output-screenshots/Occasion-wise.png)
 
 ### Monthly Sales Trend (Line Chart)
 This graph represents revenue trends over different months. It highlights seasonal patterns and demand fluctuations. Peaks in certain months suggest the influence of festivals and special events on customer purchasing behavior.
+
 ![Monthly-sales-Trend](Output-screenshots/Monthly-sales-Trend.png)
 
 ### Top Products (Bar Chart)
 This chart displays the top-performing products based on revenue. It shows that a small number of products contribute significantly to total sales, helping businesses focus on high-performing items for marketing and inventory planning.
+
 ![Top-products](Output-screenshots/Top-products.png)
 
 ---
